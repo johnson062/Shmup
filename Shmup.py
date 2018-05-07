@@ -1,3 +1,5 @@
+# Ove - Earth Is All We Have written and produced by Ove Melaa (Omsofware@hotmail.com)
+
 import pygame
 import random
 import os
